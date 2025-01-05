@@ -1,0 +1,15 @@
+﻿<Window x:Class="GeradordeSenha.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GeradordeSenha"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="257" Width="358" Background="#FFE6E6E6">
+    <Grid>
+        <Label x:Name="lbl_key" Content="Digite sua KEY:" HorizontalAlignment="Left" Margin="21,78,0,0" VerticalAlignment="Top" Foreground="#FF131313" FontFamily="Times New Roman"/>
+        <TextBox x:Name="txb_key" HorizontalAlignment="Left" Margin="110,81,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="160"/>
+        <Button x:Name="btn_keyentrar" Content="Entrar" HorizontalAlignment="Left" Margin="275,83,0,0" VerticalAlignment="Top" Height="15" Width="40" FontSize="8"/>
+        <Button x:Name="btn_gerarkey" Content="Gerar nova KEY" HorizontalAlignment="Center" Margin="0,189,0,0" VerticalAlignment="Top" Width="124" FontSize="8"/>
+    </Grid>
+</Window>
