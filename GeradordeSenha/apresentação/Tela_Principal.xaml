@@ -7,101 +7,42 @@
         mc:Ignorable="d"
         Title="Tela_Principal" Height="906" Width="693">
     <Grid>
-        <TabControl>
+        <TabControl x:Name="TabControl" SelectionChanged="TabControl_SelectionChanged">
             <TabItem Header="Senhas">
-                <Grid x:Name="grd_telaSenhas" Background="#FFE5E5E5">
-
-                    <Grid x:Name="grd_Cabecalho">
-                        <Label x:Name="lbl_TituloSenha" Content="titulo" HorizontalAlignment="Left" Margin="21,49,0,0" VerticalAlignment="Top"/>
-                        <Label Content="Login" HorizontalAlignment="Left" Margin="138,49,0,0" VerticalAlignment="Top"/>
-                        <Label Content="URL" HorizontalAlignment="Left" Margin="439,49,0,0" VerticalAlignment="Top"/>
-                        <Label Content="Observações" HorizontalAlignment="Left" Margin="573,49,0,0" VerticalAlignment="Top"/>
-                        <TextBox x:Name="txb_barraPesquisa" HorizontalAlignment="Left" Margin="83,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-                        <Label x:Name="lbl_pesquisarSenhas" Content="Pesquisar:" HorizontalAlignment="Left" Margin="21,6,0,0" VerticalAlignment="Top"/>
-                        <Label Content="Senha" HorizontalAlignment="Left" Margin="279,49,0,0" VerticalAlignment="Top"/>
-                        <Rectangle HorizontalAlignment="Center" Height="4" Margin="0,80,0,0" VerticalAlignment="Top" Width="687" RadiusX="30" RadiusY="40">
-                            <Rectangle.Fill>
-                                <SolidColorBrush Color="#FF9A9A9A" Opacity="0.8"/>
-                            </Rectangle.Fill>
-                        </Rectangle>
-                        <Grid x:Name="grd_ColunasTabela">
-                            <Rectangle HorizontalAlignment="Left" Height="800" Margin="83,62,0,0" VerticalAlignment="Top" Width="3" RenderTransformOrigin="0.5,0.5" RadiusY="40" RadiusX="30">
-                                <Rectangle.Fill>
-                                    <SolidColorBrush Color="#FF9A9A9A" Opacity="0.6"/>
-                                </Rectangle.Fill>
-                                <Rectangle.RenderTransform>
-                                    <TransformGroup>
-                                        <ScaleTransform ScaleX="-1"/>
-                                        <SkewTransform/>
-                                        <RotateTransform/>
-                                        <TranslateTransform/>
-                                    </TransformGroup>
-                                </Rectangle.RenderTransform>
-                            </Rectangle>
-                            <Rectangle HorizontalAlignment="Left" Height="800" Margin="231,62,0,0" VerticalAlignment="Top" Width="3" RenderTransformOrigin="0.5,0.5" RadiusY="40" RadiusX="30">
-                                <Rectangle.Fill>
-                                    <SolidColorBrush Color="#FF9A9A9A" Opacity="0.6"/>
-                                </Rectangle.Fill>
-                                <Rectangle.RenderTransform>
-                                    <TransformGroup>
-                                        <ScaleTransform ScaleX="-1"/>
-                                        <SkewTransform/>
-                                        <RotateTransform/>
-                                        <TranslateTransform/>
-                                    </TransformGroup>
-                                </Rectangle.RenderTransform>
-                            </Rectangle>
-                            <Rectangle HorizontalAlignment="Left" Height="800" Margin="368,62,0,0" VerticalAlignment="Top" Width="4" RenderTransformOrigin="0.5,0.5" RadiusY="40" RadiusX="30">
-                                <Rectangle.Fill>
-                                    <SolidColorBrush Color="#FF9A9A9A" Opacity="0.6"/>
-                                </Rectangle.Fill>
-                                <Rectangle.RenderTransform>
-                                    <TransformGroup>
-                                        <ScaleTransform ScaleX="-1"/>
-                                        <SkewTransform/>
-                                        <RotateTransform/>
-                                        <TranslateTransform/>
-                                    </TransformGroup>
-                                </Rectangle.RenderTransform>
-                            </Rectangle>
-                            <Rectangle HorizontalAlignment="Left" Height="800" Margin="529,62,0,0" VerticalAlignment="Top" Width="4" RenderTransformOrigin="0.5,0.5" RadiusY="40" RadiusX="30">
-                                <Rectangle.Fill>
-                                    <SolidColorBrush Color="#FF9A9A9A" Opacity="0.6"/>
-                                </Rectangle.Fill>
-                                <Rectangle.RenderTransform>
-                                    <TransformGroup>
-                                        <ScaleTransform ScaleX="-1"/>
-                                        <SkewTransform/>
-                                        <RotateTransform/>
-                                        <TranslateTransform/>
-                                    </TransformGroup>
-                                </Rectangle.RenderTransform>
-                            </Rectangle>
-
-                        </Grid>
-                        <Rectangle HorizontalAlignment="Center" Height="4" Margin="0,123,0,0" VerticalAlignment="Top" Width="687" RadiusX="30" RadiusY="40">
-
-                        </Rectangle>
-                        
-
-                    </Grid>
-
-                    <Grid x:Name="grd_linha1tabela">
-                        <Label x:Name="lbl_tituloSenhas" Content="Youtube" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top"/>
-                        <Label x:Name="lbl_loginSenhas" Content="Exemplo@gmail.com" HorizontalAlignment="Left" Margin="97,90,0,0" VerticalAlignment="Top"/>
-                        <Label x:Name="lbl_senhhaSenhas" Content="EXEMPL@321" HorizontalAlignment="Left" Margin="260,90,0,0" VerticalAlignment="Top"/>
-                        <Label x:Name="lbl_URLSenhas" Content="https://www.youtube.com" HorizontalAlignment="Left" Margin="377,90,0,0" VerticalAlignment="Top"/>
-                        <TextBlock HorizontalAlignment="Left" Margin="566,95,0,0" TextWrapping="Wrap" Text="Conta Segundaria" VerticalAlignment="Top"/>
-                        <Rectangle HorizontalAlignment="Center" Height="4" Margin="0,121,0,0" VerticalAlignment="Top" Width="687" Fill="#FF9A9A9A" RadiusX="3" RadiusY="4"/>
-                    </Grid>
-                </Grid>
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel x:Name="stackPanelSenhas" Orientation="Vertical" Margin="20">
+                        <!-- Cartões serão adicionados aqui dinamicamente -->
+                    </StackPanel>
+                </ScrollViewer>
             </TabItem>
+
             <TabItem Header="Configurações">
                 <Grid Background="#FFE5E5E5"/>
             </TabItem>
+
+            <!-- Novo Tab de Cadastro -->
+            <TabItem Header="Cadastro">
+                <StackPanel Orientation="Vertical" Margin="20">
+                    <!-- Campos de Cadastro -->
+                    <TextBlock Text="Título:" FontWeight="Bold" Margin="0, 0, 0, 5"/>
+                    <TextBox x:Name="txtTitulo" Width="250" Margin="0, 0, 0, 20"/>
+
+                    <TextBlock Text="Login:" FontWeight="Bold" Margin="0, 0, 0, 5"/>
+                    <TextBox x:Name="txtLogin" Width="250" Margin="0, 0, 0, 20"/>
+
+                    <TextBlock Text="Senha:" FontWeight="Bold" Margin="0, 0, 0, 5"/>
+                    <PasswordBox x:Name="txtSenha" Width="250" Margin="0, 0, 0, 20"/>
+
+                    <TextBlock Text="URL:" FontWeight="Bold" Margin="0, 0, 0, 5"/>
+                    <TextBox x:Name="txtURL" Width="250" Margin="0, 0, 0, 20"/>
+
+                    <TextBlock Text="Observações:" FontWeight="Bold" Margin="0, 0, 0, 5"/>
+                    <TextBox x:Name="txtObservacoes" Width="250" Margin="0, 0, 0, 20"/>
+
+                    <Button x:Name="btn_SalvarCadastro" Content="Salvar Cadastro" Width="100" HorizontalAlignment="Center" Margin="0, 10" Click="BtnSalvarCadastro_Click"/>
+                </StackPanel>
+            </TabItem>
+
         </TabControl>
-
-
-
     </Grid>
 </Window>

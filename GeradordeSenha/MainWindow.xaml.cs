@@ -24,5 +24,14 @@ namespace GeradordeSenha
         {
             InitializeComponent();
         }
+
+        private void BtnKeyentrar_Click(object sender, RoutedEventArgs e)
+        {
+            // Redireciona para a próxima página
+            apresentação.Tela_Principal telaPrincipal = new apresentação.Tela_Principal();
+            telaPrincipal.Show();
+            this.Close(); // Fecha a página atual, se necessário
+        }
+
     }
 }

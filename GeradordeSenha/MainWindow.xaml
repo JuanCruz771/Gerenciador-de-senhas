@@ -9,7 +9,7 @@
     <Grid>
         <Label x:Name="lbl_key" Content="Digite sua KEY:" HorizontalAlignment="Left" Margin="21,78,0,0" VerticalAlignment="Top" Foreground="#FF131313" FontFamily="Times New Roman"/>
         <TextBox x:Name="txb_key" HorizontalAlignment="Left" Margin="110,81,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="160"/>
-        <Button x:Name="btn_keyentrar" Content="Entrar" HorizontalAlignment="Left" Margin="275,83,0,0" VerticalAlignment="Top" Height="15" Width="40" FontSize="8"/>
+        <Button x:Name="btn_keyentrar" Content="Entrar" HorizontalAlignment="Left" Margin="275,83,0,0" VerticalAlignment="Top" Height="15" Width="40" FontSize="8" Click="BtnKeyentrar_Click"/>
         <Button x:Name="btn_gerarkey" Content="Gerar nova KEY" HorizontalAlignment="Center" Margin="0,189,0,0" VerticalAlignment="Top" Width="124" FontSize="8"/>
     </Grid>
 </Window>
