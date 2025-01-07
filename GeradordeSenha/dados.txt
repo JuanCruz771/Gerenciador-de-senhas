@@ -1,0 +1,53 @@
+﻿Título: Facebook;
+Login: matheus_costa22;
+Senha: fb$8kT9pL;
+URL: https://facebook.com;
+Observações: Conta pessoal de redes sociais.;
+
+Título: Instagram;
+Login: matheus_ig;
+Senha: iG@1zP7sB;
+URL: https://instagram.com;
+Observações: Conta de divulgação de trabalho.;
+
+Título: Twitter;
+Login: matheus_tweet;
+Senha: Tw1tT@5pV;
+URL: https://twitter.com;
+Observações: Conta para notícias e atualizações.;
+
+Título: LinkedIn;
+Login: matheus.linkedin;
+Senha: L1nk3d!n0x;
+URL: https://linkedin.com;
+Observações: Conta profissional para networking.;
+
+Título: YouTube;
+Login: matheusYT;
+Senha: YT^7gkT9l;
+URL: https://youtube.com;
+Observações: Canal de vídeos sobre tecnologia.;
+Título: teste;
+Login: teste;
+Senha: teste;
+URL: teste;
+Observações: teste;
+
+Título: oi;
+Login: oi;
+Senha: oi;
+URL: oi;
+Observações: oi;
+
+Título: uma;
+Login: vez;
+Senha: framengo;
+URL: ;
+Observações: ;
+
+Título: mais uma vez;
+Login: aqui;
+Senha:  esse;
+URL: bendito;
+Observações: lugar;
+

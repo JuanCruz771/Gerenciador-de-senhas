@@ -116,5 +116,8 @@
     <Folder Include="Controle\" />
     <Folder Include="Dados\" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="dados.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
