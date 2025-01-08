@@ -81,12 +81,17 @@
     <Compile Include="apresentação\Tela_Principal.xaml.cs">
       <DependentUpon>Tela_Principal.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Controle\AbsPropriedades.cs" />
+    <Compile Include="Controle\Controle.cs" />
+    <Compile Include="Controle\Criptografia.cs" />
+    <Compile Include="Controle\Validacao.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Modelos\Estaticos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -113,7 +118,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Controle\" />
     <Folder Include="Dados\" />
   </ItemGroup>
   <ItemGroup>

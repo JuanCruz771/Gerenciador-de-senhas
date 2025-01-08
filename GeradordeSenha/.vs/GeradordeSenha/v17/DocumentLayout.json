@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\gerarnovakey.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|solutionrelative:apresenta\u00E7\u00E3o\\gerarnovakey.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|c:\\users\\juan\\documents\\github\\gerenciador-de-senhas\\geradordesenha\\controle\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|solutionrelative:controle\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|c:\\users\\juan\\documents\\github\\gerenciador-de-senhas\\geradordesenha\\apresenta\u00E7\u00E3o\\tela_principal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|solutionrelative:apresenta\u00E7\u00E3o\\tela_principal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|c:\\users\\juan\\documents\\github\\gerenciador-de-senhas\\geradordesenha\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|c:\\users\\juan\\documents\\github\\gerenciador-de-senhas\\geradordesenha\\controle\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|solutionrelative:controle\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|c:\\users\\juan\\documents\\github\\gerenciador-de-senhas\\geradordesenha\\modelos\\estaticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|solutionrelative:modelos\\estaticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|c:\\users\\juan\\documents\\github\\gerenciador-de-senhas\\geradordesenha\\apresenta\u00E7\u00E3o\\tela_principal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|solutionrelative:apresenta\u00E7\u00E3o\\tela_principal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|c:\\users\\juan\\documents\\github\\gerenciador-de-senhas\\geradordesenha\\apresenta\u00E7\u00E3o\\gerarnovakey.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|solutionrelative:apresenta\u00E7\u00E3o\\gerarnovakey.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|c:\\users\\juan\\documents\\github\\gerenciador-de-senhas\\geradordesenha\\controle\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|solutionrelative:controle\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,35 +42,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-06T22:16:30.974Z",
+              "DocumentIndex": 7,
+              "Title": "Criptografia.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\Controle\\Criptografia.cs",
+              "RelativeDocumentMoniker": "Controle\\Criptografia.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\Controle\\Criptografia.cs",
+              "RelativeToolTip": "Controle\\Criptografia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:02:18.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Tela_Principal.xaml",
               "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\Tela_Principal.xaml",
               "RelativeDocumentMoniker": "apresenta\u00E7\u00E3o\\Tela_Principal.xaml",
               "ToolTip": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\Tela_Principal.xaml",
               "RelativeToolTip": "apresenta\u00E7\u00E3o\\Tela_Principal.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-06T22:16:24.879Z",
+              "WhenOpened": "2025-01-07T23:53:17.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estaticos.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\Modelos\\Estaticos.cs",
+              "RelativeDocumentMoniker": "Modelos\\Estaticos.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\Modelos\\Estaticos.cs",
+              "RelativeToolTip": "Modelos\\Estaticos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:47:13.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Validacao.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\Controle\\Validacao.cs",
+              "RelativeDocumentMoniker": "Controle\\Validacao.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\Controle\\Validacao.cs",
+              "RelativeToolTip": "Controle\\Validacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:35:40.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T23:13:38.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Tela_Principal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\Tela_Principal.xaml.cs",
+              "RelativeDocumentMoniker": "apresenta\u00E7\u00E3o\\Tela_Principal.xaml.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\Tela_Principal.xaml.cs",
+              "RelativeToolTip": "apresenta\u00E7\u00E3o\\Tela_Principal.xaml.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAwwIsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:07:33.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\Controle\\Controle.cs",
+              "RelativeDocumentMoniker": "Controle\\Controle.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\Controle\\Controle.cs",
+              "RelativeToolTip": "Controle\\Controle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:07:08.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "GerarnovaKEY.xaml",
               "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\GerarnovaKEY.xaml",
               "RelativeDocumentMoniker": "apresenta\u00E7\u00E3o\\GerarnovaKEY.xaml",
