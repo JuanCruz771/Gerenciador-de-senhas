@@ -13,3 +13,28 @@ C:\Users\JUAN\Documents\projeto gerador de senha\GeradordeSenha\obj\Debug\Gerado
 C:\Users\JUAN\Documents\projeto gerador de senha\GeradordeSenha\obj\Debug\App.g.cs
 C:\Users\JUAN\Documents\projeto gerador de senha\GeradordeSenha\obj\Debug\MainWindow.g.cs
 C:\Users\JUAN\Documents\projeto gerador de senha\GeradordeSenha\obj\Debug\MainWindow.baml
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\bin\Debug\GeradordeSenha.exe.config
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\bin\Debug\GeradordeSenha.exe
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\bin\Debug\GeradordeSenha.pdb
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\GeradordeSenha.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\apresentação\GerarnovaKEY.g.cs
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\apresentação\Tela_Principal.g.cs
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\MainWindow.g.cs
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\App.g.cs
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\GeradordeSenha_MarkupCompile.cache
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\GeradordeSenha_MarkupCompile.lref
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\apresentação\GerarnovaKEY.baml
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\apresentação\Tela_Principal.baml
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\MainWindow.baml
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\GeradordeSenha.g.resources
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\GeradordeSenha.Properties.Resources.resources
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\GeradordeSenha.csproj.GenerateResource.cache
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\GeradordeSenha.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\GeradordeSenha.exe
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\GeradordeSenha.pdb
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\apresentação\TelaCadastro.baml
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\apresentação\TelaConfiguracoes.baml
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\apresentação\TelaCadastro.g.cs
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\apresentação\TelaConfiguracoes.g.cs
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\apresentação\TelaSenhas.g.cs
+C:\Users\Matheus\Documents\Usuários\Matheus\Dev\Gerenciador-de-senhas\GeradordeSenha\obj\Debug\apresentação\TelaSenhas.baml

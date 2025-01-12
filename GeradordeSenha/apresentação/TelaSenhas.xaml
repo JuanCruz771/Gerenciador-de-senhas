@@ -1,0 +1,117 @@
+﻿<UserControl x:Class="GeradordeSenha.apresentação.TelaSenhas"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <!-- Linha para o cabeçalho -->
+            <RowDefinition Height="80"/>
+            <!-- Linha para a lista de cartões (restante da tela) -->
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Cabeçalho -->
+        <StackPanel Background="#3498DB" Height="80" Grid.Row="0">
+            <TextBlock Text="Armazenamento de Senhas" Foreground="White" FontSize="28" Margin="10"/>
+        </StackPanel>
+
+        <!-- Lista de cartões com barra de rolagem -->
+        <ScrollViewer Grid.Row="1" Margin="10" VerticalScrollBarVisibility="Auto">
+        <WrapPanel>
+            <!-- Cartão exemplo -->
+            <Border BorderBrush="Gray" BorderThickness="1" Padding="10" Margin="10" Width="200">
+                <StackPanel>
+                    <TextBlock Text="Título: Facebook" FontWeight="Bold"/>
+                    <TextBlock Text="Login: @matheusccp2"/>
+                    <TextBlock Text="Senha: i@!2Pr7sB"/>
+                    <TextBlock Text="URL: http://www.facebook.com"/>
+                    <!-- Último TextBlock com quebra de linha -->
+                    <TextBlock Text="Observações: Conta do Facebook com mais texto que pode exceder o limite da largura do contêiner." TextWrapping="Wrap"/>
+                </StackPanel>
+            </Border>
+            <Border BorderBrush="Gray" BorderThickness="1" Padding="10" Margin="10" Width="200">
+                <StackPanel>
+                    <TextBlock Text="Título: Facebook" FontWeight="Bold"/>
+                    <TextBlock Text="Login: @matheusccp2"/>
+                    <TextBlock Text="Senha: i@!2Pr7sB"/>
+                    <TextBlock Text="URL: http://www.facebook.com"/>
+                    <!-- Último TextBlock com quebra de linha -->
+                    <TextBlock Text="Observações: Conta do Facebook com mais texto que pode exceder o limite da largura do contêiner." TextWrapping="Wrap"/>
+                </StackPanel>
+            </Border>
+            <Border BorderBrush="Gray" BorderThickness="1" Padding="10" Margin="10" Width="200">
+                <StackPanel>
+                    <TextBlock Text="Título: Facebook" FontWeight="Bold"/>
+                    <TextBlock Text="Login: @matheusccp2"/>
+                    <TextBlock Text="Senha: i@!2Pr7sB"/>
+                    <TextBlock Text="URL: http://www.facebook.com"/>
+                    <!-- Último TextBlock com quebra de linha -->
+                    <TextBlock Text="Observações: Conta do Facebook com mais texto que pode exceder o limite da largura do contêiner." TextWrapping="Wrap"/>
+                </StackPanel>
+            </Border>
+                <Border BorderBrush="Gray" BorderThickness="1" Padding="10" Margin="10" Width="200">
+                    <StackPanel>
+                        <TextBlock Text="Título: Facebook" FontWeight="Bold"/>
+                        <TextBlock Text="Login: @matheusccp2"/>
+                        <TextBlock Text="Senha: i@!2Pr7sB"/>
+                        <TextBlock Text="URL: http://www.facebook.com"/>
+                        <!-- Último TextBlock com quebra de linha -->
+                        <TextBlock Text="Observações: Conta do Facebook com mais texto que pode exceder o limite da largura do contêiner." TextWrapping="Wrap"/>
+                    </StackPanel>
+                </Border>
+                <Border BorderBrush="Gray" BorderThickness="1" Padding="10" Margin="10" Width="200">
+                    <StackPanel>
+                        <TextBlock Text="Título: Facebook" FontWeight="Bold"/>
+                        <TextBlock Text="Login: @matheusccp2"/>
+                        <TextBlock Text="Senha: i@!2Pr7sB"/>
+                        <TextBlock Text="URL: http://www.facebook.com"/>
+                        <!-- Último TextBlock com quebra de linha -->
+                        <TextBlock Text="Observações: Conta do Facebook com mais texto que pode exceder o limite da largura do contêiner." TextWrapping="Wrap"/>
+                    </StackPanel>
+                </Border>
+                <Border BorderBrush="Gray" BorderThickness="1" Padding="10" Margin="10" Width="200">
+                    <StackPanel>
+                        <TextBlock Text="Título: Facebook" FontWeight="Bold"/>
+                        <TextBlock Text="Login: @matheusccp2"/>
+                        <TextBlock Text="Senha: i@!2Pr7sB"/>
+                        <TextBlock Text="URL: http://www.facebook.com"/>
+                        <!-- Último TextBlock com quebra de linha -->
+                        <TextBlock Text="Observações: Conta do Facebook com mais texto que pode exceder o limite da largura do contêiner." TextWrapping="Wrap"/>
+                    </StackPanel>
+                </Border>
+                <Border BorderBrush="Gray" BorderThickness="1" Padding="10" Margin="10" Width="200">
+                    <StackPanel>
+                        <TextBlock Text="Título: Facebook" FontWeight="Bold"/>
+                        <TextBlock Text="Login: @matheusccp2"/>
+                        <TextBlock Text="Senha: i@!2Pr7sB"/>
+                        <TextBlock Text="URL: http://www.facebook.com"/>
+                        <!-- Último TextBlock com quebra de linha -->
+                        <TextBlock Text="Observações: Conta do Facebook com mais texto que pode exceder o limite da largura do contêiner." TextWrapping="Wrap"/>
+                    </StackPanel>
+                </Border>
+                <Border BorderBrush="Gray" BorderThickness="1" Padding="10" Margin="10" Width="200">
+                    <StackPanel>
+                        <TextBlock Text="Título: Facebook" FontWeight="Bold"/>
+                        <TextBlock Text="Login: @matheusccp2"/>
+                        <TextBlock Text="Senha: i@!2Pr7sB"/>
+                        <TextBlock Text="URL: http://www.facebook.com"/>
+                        <!-- Último TextBlock com quebra de linha -->
+                        <TextBlock Text="Observações: Conta do Facebook com mais texto que pode exceder o limite da largura do contêiner." TextWrapping="Wrap"/>
+                    </StackPanel>
+                </Border>
+                <Border BorderBrush="Gray" BorderThickness="1" Padding="10" Margin="10" Width="200">
+                    <StackPanel>
+                        <TextBlock Text="Título: Facebook" FontWeight="Bold"/>
+                        <TextBlock Text="Login: @matheusccp2"/>
+                        <TextBlock Text="Senha: i@!2Pr7sB"/>
+                        <TextBlock Text="URL: http://www.facebook.com"/>
+                        <!-- Último TextBlock com quebra de linha -->
+                        <TextBlock Text="Observações: Conta do Facebook com mais texto que pode exceder o limite da largura do contêiner." TextWrapping="Wrap"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- Adicione outros cartões aqui -->
+            </WrapPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

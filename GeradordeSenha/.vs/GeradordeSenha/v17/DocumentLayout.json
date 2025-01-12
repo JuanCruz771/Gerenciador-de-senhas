@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\",
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Documents\\Usu\u00E1rios\\Matheus\\Dev\\Gerenciador-de-senhas\\GeradordeSenha\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|c:\\users\\juan\\documents\\github\\gerenciador-de-senhas\\geradordesenha\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|c:\\users\\juan\\documents\\github\\gerenciador-de-senhas\\geradordesenha\\apresenta\u00E7\u00E3o\\tela_principal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|C:\\Users\\Matheus\\Documents\\Usu\u00E1rios\\Matheus\\Dev\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\tela_principal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|solutionrelative:apresenta\u00E7\u00E3o\\tela_principal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|c:\\users\\juan\\documents\\github\\gerenciador-de-senhas\\geradordesenha\\apresenta\u00E7\u00E3o\\gerarnovakey.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|solutionrelative:apresenta\u00E7\u00E3o\\gerarnovakey.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|c:\\users\\matheus\\documents\\usu\u00E1rios\\matheus\\dev\\gerenciador-de-senhas\\geradordesenha\\apresenta\u00E7\u00E3o\\telasenhas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|solutionrelative:apresenta\u00E7\u00E3o\\telasenhas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|c:\\users\\matheus\\documents\\usu\u00E1rios\\matheus\\dev\\gerenciador-de-senhas\\geradordesenha\\apresenta\u00E7\u00E3o\\tela_principal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981E183C-E2F9-44CD-915C-95DFE3D22F0E}|GeradordeSenha.csproj|solutionrelative:apresenta\u00E7\u00E3o\\tela_principal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-06T22:16:30.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Tela_Principal.xaml",
-              "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\Tela_Principal.xaml",
-              "RelativeDocumentMoniker": "apresenta\u00E7\u00E3o\\Tela_Principal.xaml",
-              "ToolTip": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\Tela_Principal.xaml",
-              "RelativeToolTip": "apresenta\u00E7\u00E3o\\Tela_Principal.xaml",
+              "Title": "TelaSenhas.xaml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Usu\u00E1rios\\Matheus\\Dev\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\TelaSenhas.xaml",
+              "RelativeDocumentMoniker": "apresenta\u00E7\u00E3o\\TelaSenhas.xaml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Usu\u00E1rios\\Matheus\\Dev\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\TelaSenhas.xaml",
+              "RelativeToolTip": "apresenta\u00E7\u00E3o\\TelaSenhas.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-06T22:16:24.879Z",
+              "WhenOpened": "2025-01-12T01:41:48.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GerarnovaKEY.xaml",
-              "DocumentMoniker": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\GerarnovaKEY.xaml",
-              "RelativeDocumentMoniker": "apresenta\u00E7\u00E3o\\GerarnovaKEY.xaml",
-              "ToolTip": "C:\\Users\\JUAN\\Documents\\GitHub\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\GerarnovaKEY.xaml",
-              "RelativeToolTip": "apresenta\u00E7\u00E3o\\GerarnovaKEY.xaml",
+              "Title": "Tela_Principal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Usu\u00E1rios\\Matheus\\Dev\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\Tela_Principal.xaml.cs",
+              "RelativeDocumentMoniker": "apresenta\u00E7\u00E3o\\Tela_Principal.xaml.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Usu\u00E1rios\\Matheus\\Dev\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\Tela_Principal.xaml.cs",
+              "RelativeToolTip": "apresenta\u00E7\u00E3o\\Tela_Principal.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T01:17:16.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tela_Principal.xaml",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Documents\\Usu\u00E1rios\\Matheus\\Dev\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\Tela_Principal.xaml",
+              "RelativeDocumentMoniker": "apresenta\u00E7\u00E3o\\Tela_Principal.xaml",
+              "ToolTip": "C:\\Users\\Matheus\\Documents\\Usu\u00E1rios\\Matheus\\Dev\\Gerenciador-de-senhas\\GeradordeSenha\\apresenta\u00E7\u00E3o\\Tela_Principal.xaml",
+              "RelativeToolTip": "apresenta\u00E7\u00E3o\\Tela_Principal.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-06T22:14:57.005Z",
+              "WhenOpened": "2025-01-06T22:16:24.879Z",
               "EditorCaption": ""
             }
           ]

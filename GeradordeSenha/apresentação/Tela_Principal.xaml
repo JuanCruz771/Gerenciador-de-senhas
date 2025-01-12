@@ -1,70 +1,29 @@
 ﻿<Window x:Class="GeradordeSenha.apresentação.Tela_Principal"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:GeradordeSenha.apresentação"
-        mc:Ignorable="d"
-        Title="Tela_Principal" Height="600" Width="693">
+        Title="Tela Principal" Height="650" Width="940"
+        WindowStartupLocation="CenterScreen">
+
     <Grid>
+        <!-- Definindo duas colunas: Menu lateral e conteúdo -->
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="34*"/>
-            <ColumnDefinition Width="197*"/>
+            <ColumnDefinition Width="200"/>
+            <!-- Menu lateral fixo -->
+            <ColumnDefinition Width="*"/>
+            <!-- Área de conteúdo -->
         </Grid.ColumnDefinitions>
-        <TabControl x:Name="TabControl" SelectionChanged="TabControl_SelectionChanged" Grid.ColumnSpan="2">
-            <TabItem Header="Senhas">
-                <ScrollViewer VerticalScrollBarVisibility="Auto">
-                    <WrapPanel x:Name="wrapPanelSenhas" Margin="20">
-                        <!-- Cartões serão adicionados aqui dinamicamente -->
-                    </WrapPanel>
-                </ScrollViewer>
-            </TabItem>
 
-            <TabItem Header="Configurações">
-                <Grid Background="#FFE5E5E5"/>
-            </TabItem>
+        <!-- Menu lateral -->
+        <DockPanel>
+            <StackPanel Background="#2C3E50" Width="200" Grid.Column="0" VerticalAlignment="Stretch">
+                <TextBlock Text="Menu" FontSize="20" Foreground="White" Margin="10" />
+                <Button Content="Senhas" Click="AbrirTelaSenhas" Margin="5" />
+                <Button Content="Cadastro" Click="AbrirTelaCadastro" Margin="5" />
+                <Button Content="Configurações" Click="AbrirTelaConfiguracoes" Margin="5" />
+            </StackPanel>
+        </DockPanel>
 
-            <!-- Novo Tab de Cadastro -->
-            <TabItem Header="Cadastro">
-                <StackPanel Orientation="Vertical" Margin="20" HorizontalAlignment="Center">
-                    <!-- Título do Formulário -->
-                    <TextBlock Text="Cadastro de Senhas" FontSize="24" FontWeight="Bold" Foreground="#333" Margin="0, 0, 0, 25"/>
-
-                    <!-- Campos de Cadastro -->
-                    <TextBlock Text="Título:" FontWeight="Bold" Margin="0, 0, 0, 5" Foreground="#444"/>
-                    <TextBox x:Name="txtTitulo" Width="300" Height="30" Margin="0, 0, 0, 10" Padding="5" BorderBrush="#0078D7" BorderThickness="1"/>
-
-                    <TextBlock Text="Login:" FontWeight="Bold" Margin="0, 0, 0, 5" Foreground="#444"/>
-                    <TextBox x:Name="txtLogin" Width="300" Height="30" Margin="0, 0, 0, 10" Padding="5" BorderBrush="#0078D7" BorderThickness="1"/>
-
-                    <TextBlock Text="Senha:" FontWeight="Bold" Margin="0, 0, 0, 5" Foreground="#444"/>
-                    <Grid>
-                        <!-- Campo de Senha Oculto -->
-                        <PasswordBox x:Name="txtSenha" Width="300" Height="30" Margin="0, 0, 0, 10" Padding="5" BorderBrush="#0078D7" BorderThickness="1"/>
-
-                        <!-- Campo de Senha Visível -->
-                        <TextBox x:Name="txtSenhaVisivel" Width="300" Height="30" Margin="0, 0, 0, 10" Padding="5" BorderBrush="#0078D7" BorderThickness="1"
-             Visibility="Collapsed"/>
-
-                        <!-- Checkbox para alternar -->
-                        <CheckBox x:Name="chkMostrarSenha" Content="" VerticalAlignment="Top" HorizontalAlignment="Right"
-              Checked="ChkMostrarSenha_Checked" Unchecked="ChkMostrarSenha_Unchecked" Margin="0,8,10,0" Width="16"/>
-                    </Grid>
-
-
-                    <TextBlock Text="URL:" FontWeight="Bold" Margin="0, 0, 0, 5" Foreground="#444"/>
-                    <TextBox x:Name="txtURL" Width="300" Height="30" Margin="0, 0, 0, 10" Padding="5" BorderBrush="#0078D7" BorderThickness="1"/>
-
-                    <TextBlock Text="Observações:" FontWeight="Bold" Margin="0, 0, 0, 5" Foreground="#444"/>
-                    <TextBox x:Name="txtObservacoes" Width="300" Height="60" Margin="0, 0, 0, 10" Padding="5" BorderBrush="#0078D7" BorderThickness="1" TextWrapping="Wrap" AcceptsReturn="True"/>
-
-                    <!-- Botão de Salvar -->
-                    <Button x:Name="btn_SalvarCadastro" Content="Salvar Cadastro" Width="150" Height="40" HorizontalAlignment="Center" Margin="0, 20, 0, 0" 
-            Background="#0078D7" Foreground="White" FontWeight="Bold" BorderThickness="0" Cursor="Hand"
-            Click="BtnSalvarCadastro_Click"/>
-                </StackPanel>
-            </TabItem>
-
-        </TabControl>
+        <!-- Área de Conteúdo -->
+        <ContentControl Name="ConteudoFrame" Margin="0" Grid.Column="1" VerticalAlignment="Top"/>
     </Grid>
 </Window>

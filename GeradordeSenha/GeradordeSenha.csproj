@@ -63,6 +63,18 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="apresentação\TelaCadastro.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="apresentação\TelaConfiguracoes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="apresentação\TelaSenhas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="apresentação\Tela_Principal.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -77,6 +89,15 @@
     </Compile>
     <Compile Include="apresentação\GerarnovaKEY.xaml.cs">
       <DependentUpon>GerarnovaKEY.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="apresentação\TelaCadastro.xaml.cs">
+      <DependentUpon>TelaCadastro.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="apresentação\TelaConfiguracoes.xaml.cs">
+      <DependentUpon>TelaConfiguracoes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="apresentação\TelaSenhas.xaml.cs">
+      <DependentUpon>TelaSenhas.xaml</DependentUpon>
     </Compile>
     <Compile Include="apresentação\Tela_Principal.xaml.cs">
       <DependentUpon>Tela_Principal.xaml</DependentUpon>
